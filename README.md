@@ -9,6 +9,3 @@ This is the famous and one of the Best Training Course of DevOps
 
 ## GIT Comparisons 
 Adding GIT Comparisons Lecture
-
-## GITHub Content
-Comparison with Repo

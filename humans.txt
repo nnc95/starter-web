@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Anshul Thakur
 
 # TECHNOLOGY COLOPHON
 
