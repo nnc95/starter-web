@@ -5,7 +5,8 @@ This is GIT Project, which we are using as Sample Project
 A lot of Lectures are already submmited
 
 ## GIT & GITHub Training
-This is the famous and one of the Best Training Course of DevOps
+This is the famous and one of the Best Training Course of DevOps.
+Adding GIT Rebase Lectures in GIT Advance part.
 
 ## Contribution
 Fork the Repor and raise pull request for review
