@@ -9,9 +9,8 @@
 
  Hi. Going to insert conflicts in my feature branch.
 
-# TEAM
-
-    Anshul Thakur 
+# TEAM 
+    Nikhil Chandratre
     anshulc55@gmail.com
     DevOps Engineer Level III
     IT Organization
