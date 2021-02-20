@@ -1,7 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
- Hi, I am modifiing the file before rebase.
+ Hi, I am modifying the file after rebase.
 
  Doing some changes in Local.
  Adding important Notes on GIT Stash.
